@@ -1,4 +1,4 @@
-var module = require('./module.js');
+var module = require('./6-module.js');
 var dir = process.argv[2];
 var extFilter = process.argv[3];
 
